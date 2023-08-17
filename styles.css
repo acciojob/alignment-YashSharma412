@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+.middle{
+    border-spacing: 1px;
+    border: 1px solid black;
+    width: 94vw;
+    margin: auto;
+}
+    
+.empty_space{
+    height:20px;
+}
+
+#table-1{
+    /* it merges borders of tables and cells */
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+#t3r1c1{
+    background-color: green;
+}
+
+.t-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#t3r3c1{
+    background-color: blue;
+}
