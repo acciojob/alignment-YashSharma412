@@ -5,7 +5,15 @@
     width: 94vw;
     margin: auto;
 }
-    
+#t12{
+	
+}
+#t13{
+	
+}
+ #t21{
+	 
+ }   
 .empty_space{
     height:20px;
 }
@@ -27,8 +35,10 @@ td{
 #t3r1c1{
     background-color: green;
 }
-
-.t-image{
+#t-image{
+	
+}
+.-image{
     display: block;
     margin-left: auto;
     margin-right: auto;
